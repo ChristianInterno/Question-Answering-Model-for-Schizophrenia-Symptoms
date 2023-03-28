@@ -323,7 +323,10 @@ predictions in about 9 out of 10 cases [4].
 The F1score is one of the best-suited metrics for this analysis, as it considers
 not only the number of prediction errors, but also the type of errors that are
 made. The F1 score is defined as the harmonic mean of precision and recall:
+
 ![image](https://user-images.githubusercontent.com/80530899/228185796-975e438c-b125-46f0-932b-a9ee7500346c.png)
+
+
 Where TP is the number of True Positive, FP is the number of False Positive
 and FN is the number of False Negative. The value of the F1 score is bounded in
 [0, 1]; if it is closer to 0 it means that precision and recall are low, if it is closer
