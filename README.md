@@ -1,6 +1,6 @@
 # 🧠 Question-Answering Model for Schizophrenia Symptoms
 
-![QA Header]([[https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80](https://assets.aboutamazon.com/dims4/default/2d07242/2147483647/strip/true/crop/1919x1080+1+0/resize/1320x743!/format/webp/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F21%2Fd3%2F171c031b4871a367060f2b974a59%2Fhealth-hero-1.jpg)](https://images.unsplash.com/photo-1564121211835-e88c852648ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80))
+![QA Header](https://unsplash.com/photos/hluOJZjLVXc)
 
 > **A deep dive into the world of Schizophrenia through the lens of Machine Learning.** 
 
