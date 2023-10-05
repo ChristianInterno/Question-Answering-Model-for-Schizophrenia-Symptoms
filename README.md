@@ -1,7 +1,5 @@
 # 🧠 Question-Answering Model for Schizophrenia Symptoms
 
-![QA Header](file:///home/cinterno/Downloads/topics.pdf)
-
 > **A deep dive into the world of Schizophrenia through the lens of Machine Learning.** 
 
 This repository is dedicated to understanding Schizophrenia symptoms and their impact on daily life, leveraging vast data from mental health forums and advanced ML models.
