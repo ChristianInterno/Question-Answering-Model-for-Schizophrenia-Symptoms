@@ -7,7 +7,6 @@
 This repository is dedicated to understanding Schizophrenia symptoms and their impact on daily life, leveraging vast data from mental health forums and advanced ML models.
 
 [![PapersWithCode](https://img.shields.io/badge/PapersWithCode-Paper-green.svg?style=for-the-badge)](https://paperswithcode.com/paper/question-answering-model-for-schizophrenia)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/question-answering-model-for-schizophrenia/question-answering-on-schizzosquad)](https://paperswithcode.com/sota/question-answering-on-schizzosquad?p=question-answering-model-for-schizophrenia)
 
 ## 📖 Overview
 
