@@ -37,6 +37,9 @@ of the proposed method for obtaining an accurate dataset for QA model
 implementation. By fine-tuning the BioBERT QA model, we achieved
 an F1 score of 0.885, showing a considerable improvement and outper-
 forming the state-of-the-art model for mental disorders domain.
+
+
 ![image](https://user-images.githubusercontent.com/80530899/228185010-d0bd5f41-2dea-419c-abf6-3197ef0c6625.png)
+
 ![image](https://user-images.githubusercontent.com/80530899/228186051-44ec625e-1594-4f5c-ac15-d39cd4b122c4.png)
 
