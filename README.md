@@ -1,5 +1,5 @@
 [![PapersWithCode](https://img.shields.io/badge/PapersWithCode-Paper-green.svg?style=for-the-badge)](https://paperswithcode.com/paper/question-answering-model-for-schizophrenia)
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/question-answering-model-for-schizophrenia/question-answering-on-schizzosquad)](https://paperswithcode.com/sota/question-answering-on-schizzosquad?p=question-answering-model-for-schizophrenia)
 # Question-Answering-Model-for-Schizophrenia-Symptoms
 Question-Answering Model for Schizophrenia Symptoms and Their Impact on Daily Life using Mental Health Forums Data
 
