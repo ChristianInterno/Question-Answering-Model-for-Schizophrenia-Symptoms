@@ -1,4 +1,4 @@
-[![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-blue.svg?style=for-the-badge)](https://paperswithcode.com/paper/question-answering-model-for-schizophrenia)
+[![paperswithcode](https://img.shields.io/badge/arXiv-Paper-blue.svg?style=for-the-badge)](https://paperswithcode.com/paper/question-answering-model-for-schizophrenia)
 
 # Question-Answering-Model-for-Schizophrenia-Symptoms
 Question-Answering Model for Schizophrenia Symptoms and Their Impact on Daily Life using Mental Health Forums Data
