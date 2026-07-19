@@ -11,29 +11,6 @@ This repository is dedicated to understanding Schizophrenia symptoms and their i
 [Question-Answering Model for Schizophrenia Symptoms and Their Impact on Daily Life using Mental Health Forums Data
 ](https://arxiv.org/abs/2310.00448)
 
-## BibTeX formatted citation:
-```bash
-@misc{internò2023questionanswering,
-      title={Question-Answering Model for Schizophrenia Symptoms and Their Impact on Daily Life using Mental Health Forums Data}, 
-      author={Christian Internò and Eloisa Ambrosini},
-      year={2023},
-      eprint={2310.00448},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-## BibTeX formatted citation:
-```bash
-
-@misc{internò2024automated,
-      title={Automated Federated Learning via Informed Pruning}, 
-      author={Christian Internò and Elena Raponi and Niki van Stein and Thomas Bäck and Markus Olhofer and Yaochu Jin and Barbara Hammer},
-      year={2024},
-      eprint={2405.10271},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
 ```
 
 ## 📖 Overview
